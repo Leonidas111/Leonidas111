@@ -1,3 +1,4 @@
+![mi foto mafioso](https://user-images.githubusercontent.com/85961824/125212006-0ac79a80-e270-11eb-9ec3-989b578294e1.png)
 - 👋 Hi, I’m Leandro Diaz
 - 👀 I’m interested in Deep Learning and Blockchain
 - 🌱 I’m currently learning  TensorFlow and  Solidity
