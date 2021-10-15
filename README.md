@@ -28,7 +28,9 @@
 <img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
 <img align="left" alt="Solidity" width="26px" src="https://img.favpng.com/6/14/21/javascript-logo-png-favpng-t6ZysJw0igvdBAhLAxS7bPdLe.jpg" />
 <img align="left" alt="Trufflesuite" width="26px" src="https://raw.githubusercontent.com/smartcontractkit/box/master/box-img-lg.png" />
-<br />
+.
+
+
 ### Connect with me:
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
