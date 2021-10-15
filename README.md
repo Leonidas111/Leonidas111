@@ -18,7 +18,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
-<img align="left" alt="codestream"idth="26px" src="https://bookface-images.s3.amazonaws.com/logos/0fd2185f502bb8e6a9f60253c6bf0cabbc91f162.png" />
+<img align="left" alt="codestream" width="26px" src="https://bookface-images.s3.amazonaws.com/logos/0fd2185f502bb8e6a9f60253c6bf0cabbc91f162.png" />
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />
 <img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://marinalimeira.github.io/talk-graphql-apollo/images/js-logo.png" />
