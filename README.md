@@ -1,4 +1,5 @@
 <img align="left" alt="portada" width="100%" src="https://cdn.esglobal.org/wp-content/uploads/2016/09/robots_portada.jpg" />
+
 ## I'm a Software Developer and Full Stack!!
 
 - 👋 Hi, I’m Leandro Diaz
@@ -6,7 +7,7 @@
 - 🌱 I’m currently learning  Solidity and Vyper
 - 💞️ I'm looking to collaborate on Research and Development Projects
 - 📫 How to reach me: leandrodiazz@protonmail.com
-<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />
@@ -28,7 +29,6 @@
 <img align="left" alt="Solidity" width="26px" src="https://img.favpng.com/6/14/21/javascript-logo-png-favpng-t6ZysJw0igvdBAhLAxS7bPdLe.jpg" />
 <img align="left" alt="Trufflesuite" width="26px" src="https://raw.githubusercontent.com/smartcontractkit/box/master/box-img-lg.png" />
 
-<br />
 ### Connect with me:
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
