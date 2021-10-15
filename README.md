@@ -1,5 +1,6 @@
 <img align="left" alt="portada" width="100%" src="https://cdn.esglobal.org/wp-content/uploads/2016/09/robots_portada.jpg" />
 
+
 ## I'm a Software Developer and Full Stack!!
 
 - 👋 Hi, I’m Leandro Diaz
@@ -7,6 +8,7 @@
 - 🌱 I’m currently learning  Solidity and Vyper
 - 💞️ I'm looking to collaborate on Research and Development Projects
 - 📫 How to reach me: leandrodiazz@protonmail.com
+
 
 ### Languages and Tools:
 
