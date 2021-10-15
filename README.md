@@ -1,4 +1,5 @@
 ![screen-4](https://pbs.twimg.com/profile_banners/1439997181717536774/1632328771/600x200)
+<img align="left" alt="portada" width="100%" src="https://pbs.twimg.com/profile_banners/1439997181717536774/1632328771/600x200" />
 ## I'm a Software Developer and Full Stack!!
 
 - 👋 Hi, I’m Leandro Diaz
